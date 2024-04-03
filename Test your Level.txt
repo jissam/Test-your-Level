@@ -1,0 +1,23 @@
+What is web development, and why is it essential in the context of the internet?
+Le développement Web est la création de sites Web et d'applications Web accessibles sur Internet.
+Le développement web est essentiel dans le contexte d’internet pour plusieurs raisons :
+Partage d'informations
+Communication et collaboration
+
+Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+HTML est un langage utilisé pour structurer le contenu des pages Web. 
+HTML permet aux navigateurs Web de l'interpréter et de l'afficher correctement pour les utilisateurs.
+
+Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+CSS est un langage utilisé dans le développement Web pour définir la présentation visuelle et le style des éléments HTML d'une page.
+
+Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+
+JavaScript est un langage de programmation utilisé dans le développement Web pour rendre les sites Web interactifs et dynamiques.
+il permet d'ajouter de l'interactivité, de la réactivité, de la personnalisation et de la dynamique aux pages Web.
+
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+NON.
+
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+Dans ma metier, je veux rejoindre l'equipe de developpement web car c'est l'avenir se repose sur ces langauge.
